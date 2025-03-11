@@ -1,0 +1,27 @@
+2025-03-11 10:43:40,012 - INFO - Data loaded successfully
+2025-03-11 10:43:40,015 - INFO - Train shape: (1017209, 18), Test shape: (41088, 17)
+2025-03-11 10:47:41,969 - ERROR - Holiday analysis error: Mime type rendering requires nbformat>=4.2.0 but it is not installed
+2025-03-11 14:00:06,501 - INFO - Data loaded successfully
+2025-03-11 14:00:06,582 - INFO - Train shape: (1017209, 18), Test shape: (41088, 17)
+2025-03-11 14:16:17,245 - ERROR - Feature creation error: 'DatetimeProperties' object has no attribute 'week'
+2025-03-11 14:16:17,247 - INFO - Features created successfully
+2025-03-11 14:22:38,386 - ERROR - Feature creation error: 'DatetimeProperties' object has no attribute 'isocalender'
+2025-03-11 14:22:38,387 - INFO - Features created successfully
+2025-03-11 14:23:35,445 - INFO - Features created successfully
+2025-03-11 14:24:10,302 - WARNING - Missing values in Train Data:
+Promo2SinceWeek              508031
+Promo2SinceYear              508031
+PromoInterval                508031
+CompetitionOpenSinceMonth    323348
+CompetitionOpenSinceYear     323348
+CompetitionDistance            2642
+dtype: int64
+2025-03-11 14:24:10,326 - WARNING - Missing values in Test Data:
+Promo2SinceWeek              17232
+Promo2SinceYear              17232
+PromoInterval                17232
+CompetitionOpenSinceMonth    15216
+CompetitionOpenSinceYear     15216
+CompetitionDistance             96
+Open                            11
+dtype: int64
