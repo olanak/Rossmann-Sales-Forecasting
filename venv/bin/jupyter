@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/olana/Desktop/KAIM 3/Week 4/Rossmann-Sales-Forecasting/venv/bin/python" "$0" "$@"
+'''exec' "/home/olana/Desktop/D/KAIM 3/Week 4/Rossmann-Sales-Forecasting/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
